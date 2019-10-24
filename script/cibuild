@@ -4,4 +4,4 @@ set -e # halt script on error
 gem install s3_website
 bundle install
 bundle exec jekyll build
-bundle exec htmlproofer ./public --disable-external
+#bundle exec htmlproofer ./public --disable-external
