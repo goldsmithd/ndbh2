@@ -1,2 +1,35 @@
 source "https://rubygems.org"
-gemspec
+#gemspec
+
+
+source "https://rubygems.org"
+
+#gem "github-pages", group: :jekyll_plugins
+
+gem "jekyll", "~> 3.8.5"
+
+# html proofer
+gem "html-proofer"
+
+# add s3_build
+#gem "s3_website"
+
+# This is the default theme for new Jekyll sites. You may change this to anything you like.
+gem "minima", "~> 2.0"
+#gem "jekyll-archives"
+
+gem "tzinfo-data"
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jemoji"
+  gem "jekyll-include-cache"
+  gem "jekyll-algolia"
+  gem "jekyll-seo-tag"
+  gem "jekyll-archives"
+end
