@@ -15,6 +15,23 @@ main:
   - title: "External Link"
     url: https://google.com
 
+
+
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Sample Posts"
+    url: /year-archive/index.html
+  - title: "Sample Collections"
+    url: /collection-archive/
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/
+
+
+
 # documentation links
 docs:
   - title: Getting Started
