@@ -20,10 +20,10 @@ main:
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+    url: /docs/quick-start-guide.html/
   - title: "About"
     url: /about/index.html
-  - title: "Sample Posts"
+  - title: "Diary"
     url: /year-archive/index.html
   - title: "Sample Collections"
     url: /collection-archive/index.html

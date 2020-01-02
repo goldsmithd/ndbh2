@@ -1,10 +1,11 @@
 ---
+layout: posts
 title: "Post: Gallery"
 categories:
   - Post Formats
 tags:
   - gallery
-  - Post Formats
+  - Post Formats 
   - tiled
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
