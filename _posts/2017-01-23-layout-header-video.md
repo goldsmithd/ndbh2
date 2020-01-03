@@ -1,5 +1,6 @@
 ---
 title: "Layout: Header Video"
+layout: home
 header:
   video:
     id: XsxDH4HcOWA

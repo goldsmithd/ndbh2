@@ -28,4 +28,9 @@ var store = [{
         "excerpt":"This post should display a header with a responsive video, if the theme supports it. Settings Parameter Required Description id Required ID of the video provider Required Hosting provider of the video, either youtube or vimeo YouTube To embed the following YouTube video at url https://www.youtube.com/watch?v=XsxDH4HcOWA (long version) or https://youtu.be/XsxDH4HcOWA...","categories": ["Layout","Uncategorized"],
         "tags": ["video","layout"],
         "url": "http://localhost:4000/layout/uncategorized/layout-header-video/",
+        "teaser":null},{
+        "title": "Sample Diary Post",
+        "excerpt":"Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started. The image above happens to be centered. The rest of this paragraph is filler for...","categories": [],
+        "tags": ["alignment","captions","content","css","image","markup"],
+        "url": "http://localhost:4000/sample-diary-post/",
         "teaser":null}]

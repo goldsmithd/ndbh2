@@ -19,14 +19,15 @@ main:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide.html/
-  - title: "About"
-    url: /about/index.html
+#  - title: "Quick-Start Guide"
+#    url: /docs/quick-start-guide.html/
   - title: "Diary"
     url: /year-archive/index.html
-  - title: "Sample Collections"
-    url: /collection-archive/index.html
+  - title: "About"
+    url: /about/index.html
+  - title: "Recipes"
+#    url: /collection-archive/index.html
+    url: /categories/index.html
   - title: "Terms &amp; Privacy Policy"
     url: /terms/index.html
 

@@ -1,5 +1,6 @@
 ---
 title: "Layout: Post with Sticky Table of Contents"
+layout: home
 tags:
   - table of contents
 toc: true
