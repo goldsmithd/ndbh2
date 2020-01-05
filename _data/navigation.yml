@@ -1,19 +1,19 @@
 # main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/index.html
-  - title: "Categories"
-    url: /categories/index.html
-  #- title: "Tags"
-  #  url: /tags/
-  #- title: "Pages"
-  #  url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/index.html
-  - title: "External Link"
-    url: https://google.com
+#main:
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#  - title: "Posts"
+#    url: /year-archive/index.html
+#  - title: "Categories"
+#    url: /categories/index.html
+#  #- title: "Tags"
+#  #  url: /tags/
+#  #- title: "Pages"
+#  #  url: /page-archive/
+#  - title: "Collections"
+#    url: /collection-archive/index.html
+#  - title: "External Link"
+#    url: https://google.com
 
 
 
@@ -21,7 +21,7 @@ main:
 main:
 #  - title: "Quick-Start Guide"
 #    url: /docs/quick-start-guide.html/
-  - title: "Diary"
+  - title: "Diary2"
     url: /year-archive/index.html
   - title: "About"
     url: /about/index.html
