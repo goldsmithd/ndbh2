@@ -119,7 +119,7 @@
 
   </head>
 
-  <body class="layout--home">
+  <body class="layout--single">
     <nav class="skip-links">
   <h2 class="screen-reader-text">Skip links</h2>
   <ul>
@@ -142,7 +142,7 @@
         
         <a class="site-title" href="/">
           Dorset BirdHouse 2020
-          <span class="site-subtitle">Version 1.2</span>
+          <span class="site-subtitle">Version 1.3</span>
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/year-archive/index.html" >Diary2</a>
@@ -179,123 +179,25 @@
 
 <div id="main" role="main">
   
-  <div class="sidebar sticky">
-  
 
-
-<div itemscope itemtype="https://schema.org/Person">
-
-  
-
-  <div class="author__content">
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Markup: Another Post with Images">
+    <meta itemprop="description" content="Examples and code for displaying images in posts.">
+    <meta itemprop="datePublished" content="January 03, 2020">
     
-      <h3 class="author__name" itemprop="name">DorsetBirdHouse</h3>
-    
-    
-      <div class="author__bio" itemprop="description">
-        <p>this is a very short bio of DorsetBirdHouse</p>
 
-      </div>
-    
-  </div>
-
-  <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
+    <div class="page__inner-wrap">
       
-        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Dorset</span>
-        </li>
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Markup: Another Post with Images
+</h1>
+          
+        </header>
       
 
-      
+      <section class="page__content" itemprop="text">
         
-          
-            <li><a href="mailto:dorsetbirdhouse@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
-          
-        
-          
-        
-          
-            <li><a href="https://twitter.com/goldsmithd" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-          
-        
-          
-        
-          
-        
-          
-        
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      <!--
-  <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
-      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
-    </a>
-  </li>
--->
-    </ul>
-  </div>
-</div>
-
-  
-  </div>
-
-
-  <div class="archive">
-    
-      <h1 id="page-title" class="page__title">Markup: Another Post with Images</h1>
-    
-    <p>Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use <code class="highlighter-rouge">figure</code> with the appropriate <code class="highlighter-rouge">class</code>. Each instance of <code class="highlighter-rouge">figure</code> is auto-numbered and displayed in the caption.</p>
+        <p>Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use <code class="highlighter-rouge">figure</code> with the appropriate <code class="highlighter-rouge">class</code>. Each instance of <code class="highlighter-rouge">figure</code> is auto-numbered and displayed in the caption.</p>
 
 <h3 id="figures-for-images-or-video">Figures (for images or video)</h3>
 
@@ -348,16 +250,68 @@
 	<figcaption>Three images.</figcaption>
 </figure>
 
+        
+      </section>
 
-<h3 class="archive__subtitle">Recent posts</h3>
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/#images" class="page__taxonomy-item" rel="tag">images</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#sample-post" class="page__taxonomy-item" rel="tag">sample post</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#test" class="page__taxonomy-item" rel="tag">test</a>
+    
+    </span>
+  </p>
 
 
 
 
+        
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2020-01-03T00:00:00+00:00">January 03, 2020</time></p>
+        
+      </footer>
 
+      
 
-  </div>
+      
+  <nav class="pagination">
+    
+      <a href="/diary/sample-diary2-post/index.html" class="pagination--pager" title="Sample Diary Post2
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
 </div>
+
     </div>
 
     
@@ -408,7 +362,7 @@ a footer
 
 <div class="page__footer-copyright">&copy; 2020 DorsetBirdHouse2. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
-        2020-01-05 12:20:43 +0000
+        2020-01-05 14:34:10 +0000
       </footer>
     </div>
 

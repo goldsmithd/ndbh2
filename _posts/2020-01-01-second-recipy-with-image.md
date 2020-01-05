@@ -1,6 +1,5 @@
 ---
 title: "recipy 2"
-layout: home
 categories:
   - Breakfast
 tags:

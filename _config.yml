@@ -298,6 +298,13 @@ defaults:
       comments: true
       share: true
       related: true
+defaults:
+  # _foo
+  - scope:
+      path: ""
+      type: foo
+    values:
+      layout: single
 
 #collections:
 #  portfolio:
