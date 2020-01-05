@@ -29,8 +29,16 @@
 <lastmod>2020-01-01T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/markup/sample-diary2-post/</loc>
+<loc>http://localhost:4000/breakfast/second-recipy-with-image/</loc>
+<lastmod>2020-01-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/diary/sample-diary2-post/</loc>
 <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/first-recipy/</loc>
+<lastmod>2020-01-03T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>

@@ -20,12 +20,12 @@ var store = [{
         "url": "http://localhost:4000/markup/markup-image-alignment/index.html",
         "teaser":null},{
         "title": "Markup: Another Post with Images",
-        "excerpt":"Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use figure with the appropriate class. Each instance of figure is auto-numbered and displayed in the caption. Figures (for images or video) One...","categories": [],
+        "excerpt":"Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption. ### Figures (for images or video)...","categories": [],
         "tags": ["sample post","images","test"],
         "url": "http://localhost:4000/markup-more-images/index.html",
         "teaser":"http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"},{
         "title": "Layout: Header Video",
-        "excerpt":"This post should display a header with a responsive video, if the theme supports it. Settings Parameter Required Description id Required ID of the video provider Required Hosting provider of the video, either youtube or vimeo YouTube To embed the following YouTube video at url https://www.youtube.com/watch?v=XsxDH4HcOWA (long version) or https://youtu.be/XsxDH4HcOWA...","categories": ["Layout","Uncategorized"],
+        "excerpt":"This post should display a **header with a responsive video**, if the theme supports it. ## Settings | Parameter | Required | Description | |---------- |--------- | ----------- | | `id` | **Required** | ID of the video | | `provider` | **Required** | Hosting provider of the video, either...","categories": ["Layout","Uncategorized"],
         "tags": ["video","layout"],
         "url": "http://localhost:4000/layout/uncategorized/layout-header-video/index.html",
         "teaser":null},{
@@ -34,8 +34,18 @@ var store = [{
         "tags": ["alignment","captions","content","css","image","markup"],
         "url": "http://localhost:4000/markup/sample-diary-post/index.html",
         "teaser":null},{
+        "title": "recipy 2",
+        "excerpt":"layout posts 2 Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started. The image above happens to be centered. The rest of this paragraph...","categories": ["Breakfast"],
+        "tags": ["alignment","captions","content","css","image","breakfast"],
+        "url": "http://localhost:4000/breakfast/second-recipy-with-image/index.html",
+        "teaser":null},{
         "title": "Sample Diary Post2",
-        "excerpt":"second sample 2 Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started. The image above happens to be centered. The rest of this paragraph...","categories": ["Markup"],
+        "excerpt":"second sample 2 Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started. The image above happens to be centered. The rest of this paragraph...","categories": ["Diary"],
         "tags": ["alignment","captions","content","css","image","diary"],
-        "url": "http://localhost:4000/markup/sample-diary2-post/index.html",
-        "teaser":null}]
+        "url": "http://localhost:4000/diary/sample-diary2-post/index.html",
+        "teaser":null},{
+        "title": "Markup: Another Post with Images",
+        "excerpt":"Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use figure with the appropriate class. Each instance of figure is auto-numbered and displayed in the caption. Figures (for images or video) One...","categories": [],
+        "tags": ["sample post","images","test"],
+        "url": "http://localhost:4000/first-recipy/index.html",
+        "teaser":"http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"}]
