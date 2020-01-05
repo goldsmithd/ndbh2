@@ -9,7 +9,7 @@ tags:
   - content
   - css
   - image
-  - markup
+  - diary
 ---
 
 
