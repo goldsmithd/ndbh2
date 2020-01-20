@@ -15,7 +15,7 @@ layout: archive
   {% for i in (1..categories_max) reversed %}
     {% for category in site.categories %}
       {% if category[1].size == i %}
-        {% if category[0] =="Breakfast" %}   
+        {% if category[0] =="Breakfast" or category[0] == "Lunch" %}   
           <li>
             hello
             <a href="#{{ category[0] | slugify }}">
@@ -31,7 +31,7 @@ layout: archive
 {% for i in (1..categories_max) reversed %}
   {% for category in site.categories %}
     {% if category[1].size == i %}
-      {% if category[0] =="Breakfast" %}   
+      {% if category[0] =="Breakfast" or category[0] == "Lunch" %}   
         <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
           <h2 class="archive__subtitle">{{ category[0] }}</h2>
           <div class="entries-{{ page.entries_layout | default: 'list' }}">

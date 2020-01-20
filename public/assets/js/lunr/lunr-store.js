@@ -5,9 +5,9 @@ var store = [{
         "url": "http://localhost:4000/post%20formats/post-gallery/index.html",
         "teaser":null},{
         "title": "Post: Twitter Embed",
-        "excerpt":"🎨 Finally got around to adding all my @procreateapp creations with time lapse videos https://t.co/1nNbkefC3L pic.twitter.com/gcNLJoJ0Gn &mdash; Michael Rose (@mmistakes) November 6, 2015   This post tests Twitter Embeds.  ","categories": ["Media"],
-        "tags": ["content","embeds","media","twitter"],
-        "url": "http://localhost:4000/media/post-twitter-embeds/index.html",
+        "excerpt":"🎨 Finally got around to adding all my @procreateapp creations with time lapse videos https://t.co/1nNbkefC3L pic.twitter.com/gcNLJoJ0Gn &mdash; Michael Rose (@mmistakes) November 6, 2015   This post tests Twitter Embeds.  ","categories": ["Lunch"],
+        "tags": ["content","embeds","media","twitter","Lunch"],
+        "url": "http://localhost:4000/lunch/post-twitter-embeds/index.html",
         "teaser":null},{
         "title": "Layout: Post with Sticky Table of Contents",
         "excerpt":"“Stick” table of contents to the top of a page by adding toc_sticky: true to its YAML Front Matter. --- toc: true toc_sticky: true --- HTML Elements Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within...","categories": [],
@@ -44,8 +44,8 @@ var store = [{
         "tags": ["alignment","captions","content","css","image","diary"],
         "url": "http://localhost:4000/diary/sample-diary2-post/index.html",
         "teaser":null},{
-        "title": "Markup: Another Post with Images",
-        "excerpt":"Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use figure with the appropriate class. Each instance of figure is auto-numbered and displayed in the caption. Figures (for images or video) One...","categories": [],
-        "tags": ["sample post","images","test"],
-        "url": "http://localhost:4000/first-recipy/index.html",
-        "teaser":"http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"}]
+        "title": "Recipes Template",
+        "excerpt":"This is easy to make and only has a handful of ingredients. it takes minimal skill and experience, mostly stiring endlessly to ensure all the sugar has discolved into the water again and again endless sitr after stire until the very life saps out of you and you wonder if...","categories": ["Lunch"],
+        "tags": ["alignment","captions","content","css","image","lunch"],
+        "url": "http://localhost:4000/lunch/first-recipy/index.html",
+        "teaser":null}]

@@ -1,55 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-06T17:54:13+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DorsetBirdHouse2</title><subtitle>NDBH</subtitle><author><name>DorsetBirdHouse</name></author><entry><title type="html">Markup: Another Post with Images</title><link href="http://localhost:4000/first-recipy/index.html" rel="alternate" type="text/html" title="Markup: Another Post with Images" /><published>2020-01-03T00:00:00+00:00</published><updated>2020-01-03T00:00:00+00:00</updated><id>http://localhost:4000/first-recipy/first-recipy</id><content type="html" xml:base="http://localhost:4000/first-recipy/index.html">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-20T17:53:44+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DorsetBirdHouse2</title><subtitle>NDBH</subtitle><author><name>DorsetBirdHouse</name></author><entry><title type="html">Recipes Template</title><link href="http://localhost:4000/lunch/first-recipy/index.html" rel="alternate" type="text/html" title="Recipes Template" /><published>2020-01-03T00:00:00+00:00</published><updated>2020-01-03T00:00:00+00:00</updated><id>http://localhost:4000/lunch/first-recipy/first-recipy</id><content type="html" xml:base="http://localhost:4000/lunch/first-recipy/index.html">&lt;p&gt;This is easy to make and only has a handful of ingredients. it takes minimal skill and experience, mostly stiring endlessly to ensure all the sugar has discolved into the water again and again endless sitr after stire until the very life saps out of you and you wonder if this cup of tea is really worth it.&lt;/p&gt;
 
-&lt;h3 id=&quot;figures-for-images-or-video&quot;&gt;Figures (for images or video)&lt;/h3&gt;
+&lt;dl&gt;
+  &lt;dt&gt;&lt;b&gt;Preperation time&lt;/b&gt;&lt;/dt&gt;
+  &lt;dd&gt;about 10 mins&lt;/dd&gt;
+  &lt;dt&gt;&lt;b&gt;Cooking time&lt;/b&gt;&lt;/dt&gt;
+  &lt;dd&gt;20 minutes in a conventional Oven&lt;/dd&gt;
+&lt;/dl&gt;
 
-&lt;h4 id=&quot;one-up&quot;&gt;One Up&lt;/h4&gt;
+&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingreadients&quot;&gt;ingreadients&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt; Tea - 1 tbsp &lt;/li&gt;
+&lt;li&gt; sugar &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;method&quot;&gt;Method&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/image-alignment-150x150.jpg&quot; alt=&quot;image-left&quot; class=&quot;align-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Step 1) Add the tea to the water and stire then add the milk and stir again making sure that all the sugar is mixed in well. at this point you may be tempted to stop but keep stiring until all the sugar has disolved into the water. then take a rest&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/image-alignment-150x150.jpg&quot; alt=&quot;image-right&quot; class=&quot;align-right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Step 2) if you need another method with picture then alternate the images from side to side. once again stiring making sure that all the sugar is mixed in well. at this point you may be tempted to stop but keep stiring until all the sugar has disolved into the water. then take a rest&lt;/p&gt;
+
+&lt;p&gt;Step 3) for methods that dont need a picture then just add them into the mix&lt;/p&gt;
+
+&lt;h2 id=&quot;final-result&quot;&gt;final result&lt;/h2&gt;
 
 &lt;figure&gt;
 	&lt;a href=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
-
-&lt;h4 id=&quot;two-up&quot;&gt;Two Up&lt;/h4&gt;
-
-&lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;half&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/images/image-filename-1-large.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/images/image-filename-1.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/images/image-filename-2-large.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/assets/images/image-filename-2.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
-
-&lt;figure class=&quot;half&quot;&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.JPG&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpeg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;Two images.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h4 id=&quot;three-up&quot;&gt;Three Up&lt;/h4&gt;
-
-&lt;p&gt;Apply the &lt;code class=&quot;highlighter-rouge&quot;&gt;third&lt;/code&gt; class like so to display three images side by side that share the same caption.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;third&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-1.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-2.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/images/image-filename-3.jpg&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these three images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name>DorsetBirdHouse</name></author><category term="sample post" /><category term="images" /><category term="test" /><summary type="html">Examples and code for displaying images in posts.</summary></entry><entry><title type="html">Sample Diary Post2</title><link href="http://localhost:4000/diary/sample-diary2-post/index.html" rel="alternate" type="text/html" title="Sample Diary Post2" /><published>2020-01-02T00:00:00+00:00</published><updated>2020-01-02T00:00:00+00:00</updated><id>http://localhost:4000/diary/sample-diary2-post/sample-diary2-post</id><content type="html" xml:base="http://localhost:4000/diary/sample-diary2-post/index.html">&lt;p&gt;second sample 2&lt;/p&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning tea and sugar expertly crafted for your pleasure&quot;&gt;Morning tea and sugar expertly crafted for your pleasure &lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name>DorsetBirdHouse</name></author><category term="alignment" /><category term="captions" /><category term="content" /><category term="css" /><category term="image" /><category term="lunch" /><summary type="html">This is easy to make and only has a handful of ingredients. it takes minimal skill and experience, mostly stiring endlessly to ensure all the sugar has discolved into the water again and again endless sitr after stire until the very life saps out of you and you wonder if this cup of tea is really worth it.</summary></entry><entry><title type="html">Sample Diary Post2</title><link href="http://localhost:4000/diary/sample-diary2-post/index.html" rel="alternate" type="text/html" title="Sample Diary Post2" /><published>2020-01-02T00:00:00+00:00</published><updated>2020-01-02T00:00:00+00:00</updated><id>http://localhost:4000/diary/sample-diary2-post/sample-diary2-post</id><content type="html" xml:base="http://localhost:4000/diary/sample-diary2-post/index.html">&lt;p&gt;second sample 2&lt;/p&gt;
 
 &lt;p&gt;Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.&lt;/p&gt;
 
@@ -524,10 +508,10 @@ And you'll get something that looks like this:
 
 &lt;h2 id=&quot;notices&quot;&gt;Notices&lt;/h2&gt;
 
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;{: .notice}&lt;/code&gt; to a paragraph.&lt;/p&gt;</content><author><name>DorsetBirdHouse</name></author><category term="table of contents" /><summary type="html">“Stick” table of contents to the top of a page by adding toc_sticky: true to its YAML Front Matter.</summary></entry><entry><title type="html">Post: Twitter Embed</title><link href="http://localhost:4000/media/post-twitter-embeds/index.html" rel="alternate" type="text/html" title="Post: Twitter Embed" /><published>2010-09-10T00:00:00+01:00</published><updated>2010-09-10T00:00:00+01:00</updated><id>http://localhost:4000/media/post-twitter-embeds/post-twitter-embeds</id><content type="html" xml:base="http://localhost:4000/media/post-twitter-embeds/index.html">&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;🎨 Finally got around to adding all my &lt;a href=&quot;https://twitter.com/procreateapp&quot;&gt;@procreateapp&lt;/a&gt; creations with time lapse videos &lt;a href=&quot;https://t.co/1nNbkefC3L&quot;&gt;https://t.co/1nNbkefC3L&lt;/a&gt; &lt;a href=&quot;https://t.co/gcNLJoJ0Gn&quot;&gt;pic.twitter.com/gcNLJoJ0Gn&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Rose (@mmistakes) &lt;a href=&quot;https://twitter.com/mmistakes/status/662678050795094016&quot;&gt;November 6, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;{: .notice}&lt;/code&gt; to a paragraph.&lt;/p&gt;</content><author><name>DorsetBirdHouse</name></author><category term="table of contents" /><summary type="html">“Stick” table of contents to the top of a page by adding toc_sticky: true to its YAML Front Matter.</summary></entry><entry><title type="html">Post: Twitter Embed</title><link href="http://localhost:4000/lunch/post-twitter-embeds/index.html" rel="alternate" type="text/html" title="Post: Twitter Embed" /><published>2010-09-10T00:00:00+01:00</published><updated>2010-09-10T00:00:00+01:00</updated><id>http://localhost:4000/lunch/post-twitter-embeds/post-twitter-embeds</id><content type="html" xml:base="http://localhost:4000/lunch/post-twitter-embeds/index.html">&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;🎨 Finally got around to adding all my &lt;a href=&quot;https://twitter.com/procreateapp&quot;&gt;@procreateapp&lt;/a&gt; creations with time lapse videos &lt;a href=&quot;https://t.co/1nNbkefC3L&quot;&gt;https://t.co/1nNbkefC3L&lt;/a&gt; &lt;a href=&quot;https://t.co/gcNLJoJ0Gn&quot;&gt;pic.twitter.com/gcNLJoJ0Gn&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Rose (@mmistakes) &lt;a href=&quot;https://twitter.com/mmistakes/status/662678050795094016&quot;&gt;November 6, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;This post tests Twitter Embeds.&lt;/p&gt;</content><author><name>DorsetBirdHouse</name></author><category term="content" /><category term="embeds" /><category term="media" /><category term="twitter" /><summary type="html">🎨 Finally got around to adding all my @procreateapp creations with time lapse videos https://t.co/1nNbkefC3L pic.twitter.com/gcNLJoJ0Gn&amp;mdash; Michael Rose (@mmistakes) November 6, 2015</summary></entry><entry><title type="html">Post: Gallery</title><link href="http://localhost:4000/post%20formats/post-gallery/index.html" rel="alternate" type="text/html" title="Post: Gallery" /><published>2010-09-09T00:00:00+01:00</published><updated>2010-09-09T00:00:00+01:00</updated><id>http://localhost:4000/post%20formats/post-gallery/post-gallery</id><content type="html" xml:base="http://localhost:4000/post%20formats/post-gallery/index.html">&lt;p&gt;These are gallery tests for image wrapped in &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;figure&amp;gt;&lt;/code&gt; elements.&lt;/p&gt;
+&lt;p&gt;This post tests Twitter Embeds.&lt;/p&gt;</content><author><name>DorsetBirdHouse</name></author><category term="content" /><category term="embeds" /><category term="media" /><category term="twitter" /><category term="Lunch" /><summary type="html">🎨 Finally got around to adding all my @procreateapp creations with time lapse videos https://t.co/1nNbkefC3L pic.twitter.com/gcNLJoJ0Gn&amp;mdash; Michael Rose (@mmistakes) November 6, 2015</summary></entry><entry><title type="html">Post: Gallery</title><link href="http://localhost:4000/post%20formats/post-gallery/index.html" rel="alternate" type="text/html" title="Post: Gallery" /><published>2010-09-09T00:00:00+01:00</published><updated>2010-09-09T00:00:00+01:00</updated><id>http://localhost:4000/post%20formats/post-gallery/post-gallery</id><content type="html" xml:base="http://localhost:4000/post%20formats/post-gallery/index.html">&lt;p&gt;These are gallery tests for image wrapped in &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;figure&amp;gt;&lt;/code&gt; elements.&lt;/p&gt;
 
 &lt;p&gt;To place a gallery add the necessary YAML Front Matter:&lt;/p&gt;
 
