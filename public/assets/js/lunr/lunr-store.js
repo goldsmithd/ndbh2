@@ -48,4 +48,9 @@ var store = [{
         "excerpt":"This is easy to make and only has a handful of ingredients. it takes minimal skill and experience, mostly stiring endlessly to ensure all the sugar has discolved into the water again and again endless sitr after stire until the very life saps out of you and you wonder if...","categories": ["Lunch"],
         "tags": ["alignment","captions","content","css","image","lunch"],
         "url": "http://localhost:4000/lunch/first-recipy/index.html",
+        "teaser":null},{
+        "title": "Lentil and Bean Pies",
+        "excerpt":"This is easy to make and only has a few readily available ingredients. There are two options but the one with the potato top isn’t really a pie and more resembles a cottage pie, still delicious though! Preperation time about 10 mins Cooking time 20 minutes in a conventional Oven...","categories": ["Lunch"],
+        "tags": ["alignment","captions","content","css","image","lunch"],
+        "url": "http://localhost:4000/lunch/lentil-and-bean-pies/index.html",
         "teaser":null}]

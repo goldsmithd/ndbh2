@@ -41,6 +41,10 @@
 <lastmod>2020-01-03T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/lunch/lentil-and-bean-pies/</loc>
+<lastmod>2020-01-12T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 <lastmod>2019-07-24T15:15:57+01:00</lastmod>
 </url>
@@ -58,5 +62,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page3/</loc>
 </url>
 </urlset>
