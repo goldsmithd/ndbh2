@@ -19,6 +19,8 @@ This is easy to make and only has a few readily available ingredients.
   <dd>about 10 mins</dd>
   <dt><b>Cooking time</b></dt>
   <dd>30 minutes in a conventional Oven</dd>
+  <dd>makes 4 pies</dd>
+  <dd>freeze before cooking</dd>
 </dl>
 
 
@@ -48,7 +50,7 @@ This is easy to make and only has a few readily available ingredients.
 
 ##image is 427x240
 
-**Step 1)** Cook lentils – cover with water and bring to the boil then let simmer for around 20 mins. If you are using potatoes as lids then boil these for around the same time.<br>
+**Step 1)** Cook lentils – cover with water and bring to the boil then let simmer for around 20 mins. Boil potatoes for around the same time.<br>
 
 **Step 2)** Make the gravy - crumble the veg stock cube and add the gravy granules into around 1 pint, or more if you like. Microwave for 2 mins and stir then microwave for another minute when you are going to add to the lentils.<br>
 
@@ -61,30 +63,23 @@ This is easy to make and only has a few readily available ingredients.
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-12-lentil-and-bean-pies-2.jpg){: .align-right}
 
-**Step 6)** decant into pie containers or use cookwear or thing that will be an appropriate oven proof container. Add the lids and decorate with whatever design you wish, or add the potato at this point.
+**Step 6)** decant into pie containers or use cookwear or thing that will be an appropriate oven/freezer proof container. Add the lids and score the top with a fork ( to get crispy bits).
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-12-lentil-and-bean-pies-3.jpg){: .align-left}
 
-**Step 7)** cook for around 30 mins or so on around 180degrees for a fan ovenf or 200degrees for a conventional oven. Any left over pies can be frozen prior to cooking. Serve with loads of Veg and the left over gravy.
+**Step 7)** cook for around 30 mins or so on around 180degrees for a fan oven or 200degrees for a conventional oven. Any left over pies can be frozen prior to cooking. Serve with loads of Veg and the left over gravy.
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-12-lentil-and-bean-pies-4.jpg){: .align-right}
 
-### Nutrients - shortcrust
 
-| Header1 | Header2 |
+| Item | Value per Pie |
 |:--------|:-------:|
-| cell1   | cell2   |
-| cell4   | cell5   |
-|=====
-| Foot1   | Foot2   | Foot3
+| Calories   | 358 |
+| Protein   | 16g |
+| Carbohydrates   | 65g   |
+| Fiber   | 15g   | 
+| Fat   | 2g of which 0.5 is saturated   |
 {: rules="groups"}
 
-
-### Nutrients - potato topped
-1. Calories 205 for each pie
-1. Protein 11g
-1. Carbohydrates 23g
-1. Fibre 13g
-1. Fat 1g of which 0 is saturated
 
 These pie's are very filling and because you can batch make them they are a good thing to pull out of the freezer as and when needed.
