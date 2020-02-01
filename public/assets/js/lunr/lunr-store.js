@@ -50,7 +50,17 @@ var store = [{
         "url": "http://localhost:4000/lunch/first-recipy/index.html",
         "teaser":null},{
         "title": "Lentil and Bean Pies",
-        "excerpt":"This is easy to make and only has a few readily available ingredients. There are two options but the one with the potato top isn’t really a pie and more resembles a cottage pie, still delicious though! Preperation time about 10 mins Cooking time 20 minutes in a conventional Oven...","categories": ["Lunch"],
+        "excerpt":"This is easy to make and only has a few readily available ingredients. There are two options but the one with the potato top isn’t really a pie and more resembles a cottage pie, still delicious though! Preperation time about 10 mins Cooking time 30 minutes in a conventional Oven...","categories": ["Lunch"],
         "tags": ["alignment","captions","content","css","image","lunch"],
         "url": "http://localhost:4000/lunch/lentil-and-bean-pies/index.html",
+        "teaser":null},{
+        "title": "Cottage Pie",
+        "excerpt":"This is easy to make and only has a few readily available ingredients. Preperation time about 10 mins Cooking time 30 minutes in a conventional Oven makes 4 pies freeze before cooking Ingredients 120g green lentils 1 can cannellini beans or your beans of choice 1 can Borlotti beans or...","categories": ["Lunch"],
+        "tags": ["alignment","captions","content","css","image","lunch"],
+        "url": "http://localhost:4000/lunch/cottage-pie/index.html",
+        "teaser":null},{
+        "title": "Bean Burgers",
+        "excerpt":"This is very easy to make and only has a few readily available ingredients. Preparation time about 10 mins Cooking time 30 minutes in a conventional Oven or 10 minutes frying makes 4 pies freeze before cooking Ingredients 4 cans of beans of your choice I use Black Eyed Beans,...","categories": ["Lunch"],
+        "tags": ["alignment","captions","content","css","image","lunch"],
+        "url": "http://localhost:4000/lunch/bean-burgers/index.html",
         "teaser":null}]
