@@ -46,9 +46,7 @@ This is easy to make and only has a few readily available ingredients.
 
 ## Method
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-12-lentil-and-bean-pies-1.jpg){: .align-left}
-
-##image is 427x240
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-25-cottage-pie-pies-1.jpg){: .align-left}
 
 **Step 1)** Cook lentils – cover with water and bring to the boil then let simmer for around 20 mins. Boil potatoes for around the same time.<br>
 
@@ -61,15 +59,15 @@ This is easy to make and only has a few readily available ingredients.
 **Step 5)** Seasoning - add the seasoning to the mixture and stir well, feel free to add different amounts and types.
 
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-12-lentil-and-bean-pies-2.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-25-cottage-pie-pies-2.jpg){: .align-right}
 
 **Step 6)** decant into pie containers or use cookwear or thing that will be an appropriate oven/freezer proof container. Add the lids and score the top with a fork ( to get crispy bits).
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-12-lentil-and-bean-pies-3.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-25-cottage-pie-pies-3.jpg){: .align-left}
 
 **Step 7)** cook for around 30 mins or so on around 180degrees for a fan oven or 200degrees for a conventional oven. Any left over pies can be frozen prior to cooking. Serve with loads of Veg and the left over gravy.
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-12-lentil-and-bean-pies-4.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-25-cottage-pie-pies-4.jpg){: .align-right}
 
 
 | Item | Value per Pie |
